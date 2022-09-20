@@ -1,0 +1,15 @@
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\SecondApp\bin\Debug\net6.0\SecondApp.exe
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\SecondApp\bin\Debug\net6.0\SecondApp.deps.json
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\SecondApp\bin\Debug\net6.0\SecondApp.runtimeconfig.json
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\SecondApp\bin\Debug\net6.0\SecondApp.dll
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\SecondApp\bin\Debug\net6.0\SecondApp.pdb
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\SecondApp\obj\Debug\net6.0\SecondApp.csproj.AssemblyReference.cache
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\SecondApp\obj\Debug\net6.0\SecondApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\SecondApp\obj\Debug\net6.0\SecondApp.AssemblyInfoInputs.cache
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\SecondApp\obj\Debug\net6.0\SecondApp.AssemblyInfo.cs
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\SecondApp\obj\Debug\net6.0\SecondApp.csproj.CoreCompileInputs.cache
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\SecondApp\obj\Debug\net6.0\SecondApp.dll
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\SecondApp\obj\Debug\net6.0\refint\SecondApp.dll
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\SecondApp\obj\Debug\net6.0\SecondApp.pdb
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\SecondApp\obj\Debug\net6.0\SecondApp.genruntimeconfig.cache
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\SecondApp\obj\Debug\net6.0\ref\SecondApp.dll
