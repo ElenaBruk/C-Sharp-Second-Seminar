@@ -1,0 +1,15 @@
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\ThirdApp\obj\Debug\net6.0\ThirdApp.csproj.AssemblyReference.cache
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\ThirdApp\obj\Debug\net6.0\ThirdApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\ThirdApp\obj\Debug\net6.0\ThirdApp.AssemblyInfoInputs.cache
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\ThirdApp\obj\Debug\net6.0\ThirdApp.AssemblyInfo.cs
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\ThirdApp\obj\Debug\net6.0\ThirdApp.csproj.CoreCompileInputs.cache
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\ThirdApp\bin\Debug\net6.0\ThirdApp.exe
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\ThirdApp\bin\Debug\net6.0\ThirdApp.deps.json
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\ThirdApp\bin\Debug\net6.0\ThirdApp.runtimeconfig.json
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\ThirdApp\bin\Debug\net6.0\ThirdApp.dll
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\ThirdApp\bin\Debug\net6.0\ThirdApp.pdb
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\ThirdApp\obj\Debug\net6.0\ThirdApp.dll
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\ThirdApp\obj\Debug\net6.0\refint\ThirdApp.dll
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\ThirdApp\obj\Debug\net6.0\ThirdApp.pdb
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\ThirdApp\obj\Debug\net6.0\ThirdApp.genruntimeconfig.cache
+D:\2.FRAUBROOK\Новая папка\C#\C# seminars\SecondSeminar\ThirdApp\obj\Debug\net6.0\ref\ThirdApp.dll
